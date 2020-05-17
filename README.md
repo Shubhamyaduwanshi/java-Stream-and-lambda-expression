@@ -1,1 +1,1 @@
-it contains my app details
+It contains my app details
